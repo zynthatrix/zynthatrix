@@ -1,7 +1,7 @@
 <h1 align="center">👋Hello <img src="https://komarev.com/ghpvc/?username=jebrich&label=VISITOR NO.&color=be38f3&style=flat" alt="jebrich" />!👋</h1>
 
 <p align="center">My name is Oscar, and I'm a student learning to code. Welcome to my GitHub profile! I'm thrilled that you're here to learn more about me and my programming journey.</p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jebrich&show_icons=true&theme=gruvbox&locale=en" alt="jebrich"><img align="center" src="https://badge42.vercel.app/api/v2/clhue275i009708kz593xsy0p/stats?cursusId=21&coalitionId=125" alt="osericol"></p>
+<p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/clhue275i009708kz593xsy0p/stats?cursusId=21&coalitionId=125" alt="osericol"></p>
 
 <h1 align="center">About Me</h1>
 
@@ -16,13 +16,13 @@
 
 <p align ="center">I'm still learning, but here are some of the skills and tools I'm familiar with:</p>
 
-<p align="center"><img align="center" src="https://img.shields.io/badge/LANGUAGES-%3A-yellow?style=for-the-badge&logo=none" alt="langs"> <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA"> <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></p>
+<p align="center"><img align="center" src="https://img.shields.io/badge/Languages-ffffff?style=for-the-badge&logo=none&logoColor=black" alt="langs"> <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA"> <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></p>
   
-<p align="center"><img align="center" src="https://img.shields.io/badge/VERSION CONTROL-%3A-yellow?style=for-the-badge&logo=none" alt="Version Control"> <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"></p>
+<p align="center"><img align="center" src="https://img.shields.io/badge/Version Control-ffffff?style=for-the-badge&logo=none&logoColor=black" alt="Version Control"> <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"></p>
 
-<p align="center"><img align="center" src="https://img.shields.io/badge/OS-%3A-yellow?style=for-the-badge&logo=none" alt="OS" > <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="Macintosh"></p>
+<p align="center"><img align="center" src="https://img.shields.io/badge/OS-ffffff?style=for-the-badge&logo=none&logoColor=black" alt="OS" > <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="Macintosh"></p>
 
- <p align="center"><img align="center" src="https://img.shields.io/badge/TOOLS-%3A-yellow?style=for-the-badge&logo=none" alt="tools">     <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode" >     <img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">     <img align="center" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="vim"></p>
+ <p align="center"><img align="center" src="https://img.shields.io/badge/Tools-ffffff?style=for-the-badge&logo=none&logoColor=black" alt="tools">     <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode" >     <img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">     <img align="center" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="vim"></p>
 
 <h1 align="center"> What I'm Learning</h1>
 
