@@ -5,11 +5,11 @@
 
 <h1 align="center">About Me</h1>
 
-<p align="center">I'm currently studying software engineering at [42Rome by LUISS]((https://www.42roma.it). Before this, I had a diverse range of experiences, from owning a restaurant to working in retail and customer service. These experiences taught me a lot about teamwork, problem-solving, and adaptability.
+<p align="center">I'm currently studying software engineering at <a href="http://42roma.it"> <img align="center" src="https://img.shields.io/badge/Network-ffffff?style=for-the-badge&logo=42&logoColor=black" alt="42"></a>. Before this, I had a diverse range of experiences, from owning a restaurant to working in retail and customer service. These experiences taught me a lot about teamwork, problem-solving, and adaptability.</p>
 
-Even though I'm just getting started with coding, I've always been interested in technology and building things. I love learning how systems work and discovering ways to leverage technology to improve people's lives. My goal is to develop innovative solutions to important problems.
+<p align="center">Even though I'm just getting started with coding, I've always been interested in technology and building things. I love learning how systems work and discovering ways to leverage technology to improve people's lives. My goal is to develop innovative solutions to important problems.</p>
 
-Outside of programming, I enjoy activities like cycling, hiking, traveling, and photography. Experiencing new cultures and connecting with people from all walks of life inspires me. I try to nurture an optimistic growth mindset in all areas of life. There's always an opportunity to expand your mind and improve your skills!</p>
+<p align="center">Outside of programming, I enjoy activities like cycling, hiking, traveling, and photography. Experiencing new cultures and connecting with people from all walks of life inspires me. I try to nurture an optimistic growth mindset in all areas of life. There's always an opportunity to expand your mind and improve your skills!</p>
 
 <h1 align="center">Skills and Tools</h1>
 
