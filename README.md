@@ -48,7 +48,7 @@ Please feel free to connect with me! I'm always happy to chat, collaborate, and 
 - [LinkedIn](www.linkedin.com/in/jebrich)
 - [Instagram](https://www.instagram.com/jebrich)
 - [Telegram](https://t.me/jebrich)
-- 
+
 Languages spoken: Polish 🇵🇱, Italian 🇮🇹, English 🇬🇧
 
 ## Thanks for visiting my profile. I'm excited for this journey into programming and can't wait to build projects, solve problems, and connect with other developers. The adventures ahead! 🚀
