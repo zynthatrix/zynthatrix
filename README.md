@@ -53,3 +53,5 @@
 <h5 align="center">Languages spoken: Polish 🇵🇱, Italian 🇮🇹, English 🇬🇧</h5>
 
 <h2 align="center">Thanks for visiting my profile. I'm excited for this journey into programming and can't wait to build projects, solve problems, and connect with other developers. The adventures ahead! 🚀</h2>
+
+![](https://hit.yhype.me/github/profile?user_id=109754164)
