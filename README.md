@@ -1,6 +1,7 @@
 ## Hello! 👋
 
-## My name is Oscar, and I'm a student learning to code. Welcome to my GitHub profile! I'm thrilled that you're here to learn more about me and my programming journey.
+My name is Oscar, and I'm a student learning to code. Welcome to my GitHub profile! I'm thrilled that you're here to learn more about me and my programming journey.
+
 
 ## About Me
 
@@ -43,10 +44,10 @@ I'd love to connect with other developers and mentors in these areas. There's so
 
 Please feel free to connect with me! I'm always happy to chat, collaborate, and support other coders.
 
-- Email: jebrich@writeme.com
-- LinkedIn: [www.linkedin.com/in/jebrich](www.linkedin.com/in/jebrich)
-- Instagram: [@jebrich](https://www.instagram.com/jebrich)
-- Telegram: [@jebrich](https://t.me/jebrich)
+- [Email](jebrich@writeme.com) 
+- [LinkedIn](www.linkedin.com/in/jebrich)
+- [Instagram](https://www.instagram.com/jebrich)
+- [Telegram](https://t.me/jebrich)
 - 
 Languages spoken: Polish 🇵🇱, Italian 🇮🇹, English 🇬🇧
 
