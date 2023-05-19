@@ -1,4 +1,4 @@
-<h1 align="center">👋Hello <img src="https://komarev.com/ghpvc/?username=jebrich&label=VISITOR NO.&color=be38f3&style=flat" alt="jebrich" />!👋</h1>
+<h1 align="center">👋Hello <img src="https://komarev.com/ghpvc/?username=jebrich&label=VISITORS&color=ffaa00&style=flat-square" alt="jebrich" >!👋</h1>
 
 <p align="center">My name is Oscar, and I'm a student learning to code. Welcome to my GitHub profile! I'm thrilled that you're here to learn more about me and my programming journey.</p>
 <p align="center"><img align="center" src="https://badge42.vercel.app/api/v2/clhue275i009708kz593xsy0p/stats?cursusId=21&coalitionId=125" alt="osericol"></p>
