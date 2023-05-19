@@ -5,7 +5,7 @@
 
 <h1 align="center">About Me</h1>
 
-<p align="center">I'm currently studying software engineering at <a href="http://42roma.it"> <img align="center" src="https://img.shields.io/badge/Network-ffffff?style=for-the-badge&logo=42&logoColor=black" alt="42"></a>. Before this, I had a diverse range of experiences, from owning a restaurant to working in retail and customer service. These experiences taught me a lot about teamwork, problem-solving, and adaptability.</p>
+<p align="center">I'm currently studying software engineering at <a href="http://42roma.it"> <img align="center" src="https://img.shields.io/badge/Roma-ffffff?style=for-the-badge&logo=42&logoColor=black" alt="42"></a> a new innovative educational program based on the 42 model. Before this, I had a diverse range of experiences, from owning a restaurant to working in retail and customer service. These experiences taught me a lot about teamwork, problem-solving, and adaptability.</p>
 
 <p align="center">Even though I'm just getting started with coding, I've always been interested in technology and building things. I love learning how systems work and discovering ways to leverage technology to improve people's lives. My goal is to develop innovative solutions to important problems.</p>
 
