@@ -45,8 +45,8 @@
 
 <p align="center">Please feel free to connect with me! I'm always happy to chat, collaborate, and support other coders.</p>
 
-<p align="center"><a href="https://t.me/jebrich"> <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TELEGRAM"> </a>
-<a href="mailto:jebrich@writeme.com"> <img align="center" src="https://img.shields.io/badge/email-2CA5E0?style=for-the-badge&logo=maildotru&logoColor=white" alt="EMAIL"> </a></p>
+<p align="center"><a href="https://t.me/zynthatrix"> <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TELEGRAM"> </a>
+<a href="mailto:zynthatrix@cyber-wizard.com"> <img align="center" src="https://img.shields.io/badge/email-2CA5E0?style=for-the-badge&logo=maildotru&logoColor=white" alt="EMAIL"> </a></p>
 
 
 <h5 align="center">Languages spoken: Polish 🇵🇱, Italian 🇮🇹, English 🇬🇧</h5>
